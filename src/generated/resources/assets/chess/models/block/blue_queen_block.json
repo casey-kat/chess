@@ -1,0 +1,8 @@
+{
+  "parent": "chess:block/queen_block",
+  "textures": {
+    "0": "chess:block/blue_chess",
+    "particle": "chess:block/blue_chess",
+    "texture": "chess:block/blue_chess"
+  }
+}
